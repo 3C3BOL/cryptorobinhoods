@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+
+# Welcome Crypto Friend
+
+You have finally come to CryptoRobinHoods official website.
+
+## WHAT IS CRYPTOROBINHOODS?
+
+## WHY WOULD I WANT ONE?
+
+## HOW CAN I BUY ONE?
+
+## WHO IS 3C3BOL?
 
 You can use the [editor on GitHub](https://github.com/3C3BOL/cryptorobinhoods/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
