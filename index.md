@@ -1,15 +1,25 @@
 
-# Welcome Crypto Friend
+# Welcome to CryptoRobinHoods official website, Crypto Friend.
 
 You have finally come to CryptoRobinHoods official website.
 
-## WHAT IS CRYPTOROBINHOODS?
+## What is the CryptoRobinHoods Collection?
 
-## WHY WOULD I WANT ONE?
+## Why should you buy one?
 
-## HOW CAN I BUY ONE?
+## How can you buy one?
 
-## WHO IS 3C3BOL?
+## Who is 3C3BOL?
+
+
+### CryptoRobinHoods Links
+
+### 3C3BOL Links
+- fb
+- insta
+- youtube
+- opensea
+
 
 You can use the [editor on GitHub](https://github.com/3C3BOL/cryptorobinhoods/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
